@@ -1,0 +1,144 @@
+{
+  "expenses": [
+    {
+      "expenseTitle": "PS5",
+      "expenseAmount": "500",
+      "expenseType": false,
+      "expenseCategory": "Video Games",
+      "expenseIcon": "22",
+      "expenseNotes": "",
+      "id": 202,
+      "time": "28/1/2022"
+    },
+    {
+      "expenseTitle": "Primark",
+      "expenseAmount": "140",
+      "expenseType": false,
+      "expenseCategory": "Shopping",
+      "expenseIcon": "25",
+      "expenseNotes": "",
+      "id": 2095,
+      "time": "15/1/2022"
+    },
+    {
+      "expenseTitle": "House insurance",
+      "expenseAmount": "25",
+      "expenseType": false,
+      "expenseCategory": "Insurance",
+      "expenseIcon": "24",
+      "expenseNotes": "",
+      "id": 2096,
+      "time": "1/1/2022"
+    },
+    {
+      "expenseTitle": "Groceries",
+      "expenseAmount": "55",
+      "expenseType": false,
+      "expenseCategory": "Food",
+      "expenseIcon": "40",
+      "expenseNotes": "",
+      "id": 2097,
+      "time": "2/1/2022"
+    },
+    {
+      "expenseTitle": "Groceries",
+      "expenseAmount": "150",
+      "expenseType": false,
+      "expenseCategory": "Food",
+      "expenseIcon": "40",
+      "expenseNotes": "",
+      "id": 2098,
+      "time": "7/1/2022"
+    },
+    {
+      "expenseTitle": "Drinks",
+      "expenseAmount": "62",
+      "expenseType": false,
+      "expenseCategory": "Snacks & Beverages",
+      "expenseIcon": "65",
+      "expenseNotes": "",
+      "id": 2100,
+      "time": "5/1/2022"
+    },
+    {
+      "expenseTitle": "Groceries",
+      "expenseAmount": "55",
+      "expenseType": false,
+      "expenseCategory": "Food",
+      "expenseIcon": "40",
+      "expenseNotes": "",
+      "id": 865,
+      "time": "1/12/2021"
+    },
+    {
+      "expenseTitle": "Nigh out",
+      "expenseAmount": "86",
+      "expenseType": false,
+      "expenseCategory": "Snacks & Beverages",
+      "expenseIcon": "65",
+      "expenseNotes": "",
+      "id": 205,
+      "time": "8/11/2021 11:46"
+    },
+    {
+      "expenseTitle": "House tools",
+      "expenseAmount": "103",
+      "expenseType": false,
+      "expenseCategory": "Household Consumables",
+      "expenseIcon": "47",
+      "expenseNotes": "",
+      "id": 265,
+      "time": "9/10/2021 11:46"
+    },
+    {
+      "expenseTitle": "Health insurance",
+      "expenseAmount": "35",
+      "expenseType": false,
+      "expenseCategory": "Health insurance",
+      "expenseIcon": "23",
+      "expenseNotes": "",
+      "id": 100,
+      "time": "22/1/2022"
+    },
+    {
+      "expenseTitle": "House insurance",
+      "expenseAmount": "25",
+      "expenseType": false,
+      "expenseCategory": "Insurance",
+      "expenseIcon": "24",
+      "expenseNotes": "",
+      "id": 278,
+      "time": "1/2/2022 15:48"
+    },
+    {
+      "expenseTitle": "Groceries",
+      "expenseAmount": "55",
+      "expenseType": false,
+      "expenseCategory": "Food",
+      "expenseIcon": "40",
+      "expenseNotes": "",
+      "id": 280,
+      "time": "2/2/2022"
+    },
+    {
+      "expenseTitle": "Restaurant date",
+      "expenseAmount": "90",
+      "expenseType": false,
+      "expenseCategory": "Snacks & Beverages",
+      "expenseIcon": "65",
+      "expenseNotes": "",
+      "id": 281,
+      "time": "5/2/2022"
+    },
+    {
+      "expenseTitle": "Groceries",
+      "expenseAmount": "150",
+      "expenseType": false,
+      "expenseCategory": "Food",
+      "expenseIcon": "40",
+      "expenseNotes": "",
+      "id": 282,
+      "time": "7/2/2022"
+    }
+  ]
+}
